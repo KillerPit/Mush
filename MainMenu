@@ -15,7 +15,7 @@ public class MainMenu : MonoBehaviour
 
     public void OpenOptions()
     {
-
+        Debug.Log("Options Opened");
     }
 
     public void CloseOptions()
